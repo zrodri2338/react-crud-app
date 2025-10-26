@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.71502ec1.css",
-    "main.js": "/static/js/main.e631f9a2.js",
-    "index.html": "/index.html",
-    "main.71502ec1.css.map": "/static/css/main.71502ec1.css.map",
-    "main.e631f9a2.js.map": "/static/js/main.e631f9a2.js.map"
+    "main.css": "./react-crud-app/static/css/main.71502ec1.css",
+    "main.js": "./react-crud-app/static/js/main.e631f9a2.js",
+    "index.html": "./react-crud-app/index.html",
+    "main.71502ec1.css.map": "./react-crud-app/static/css/main.71502ec1.css.map",
+    "main.e631f9a2.js.map": "./react-crud-app/static/js/main.e631f9a2.js.map"
   },
   "entrypoints": [
     "static/css/main.71502ec1.css",
